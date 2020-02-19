@@ -7,9 +7,13 @@
 
 ## Usage
 
-<p>To include LitSelector, first install with npm.</p>
+To include LitSelector, install with npm.
 
 `npm i lit-selector`
+
+CDN
+
+[https://cdn.jsdelivr.net/npm/lit-selector/index.min.js](https://cdn.jsdelivr.net/npm/lit-selector/index.min.js)
 
 ## Examples
 
