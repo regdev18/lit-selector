@@ -41,7 +41,11 @@ const el = ls("div.user-panel.main input[name='login']");
 
 <p>
   <code>
-    const container = ls("#test"); <br/>
+    const container = ls("#test"); 
+    </code>
+</p>
+<p>
+  <code>
     const matches = container.ls("div.highlighted > p");
   </code>
 </p>
